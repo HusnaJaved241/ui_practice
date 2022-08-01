@@ -23,3 +23,10 @@ UI inspiration from https://github.com/lohanidamodar/flutter_ui_challenges.git.
 ![settings_2](https://user-images.githubusercontent.com/56845350/182127839-dbb18d16-60f6-4675-90c2-257c062aee14.jpg)
 ![settings_3](https://user-images.githubusercontent.com/56845350/182127851-f13735ba-8309-48b7-8c60-fb2ff4d5b0e6.jpg)
 ![settings_1](https://user-images.githubusercontent.com/56845350/182127854-90e3bed9-9a22-471d-aaad-492f8a5dbf25.jpg)
+
+#Todo UI![todo_2](https://user-images.githubusercontent.com/56845350/182168784-16f78d70-98e6-4f4a-a875-24d389be239b.jpg)
+![todo_3](https://user-images.githubusercontent.com/56845350/182168796-ac36135d-529e-4179-b51e-c3c6dfe50200.jpg)
+![todo_4](https://user-images.githubusercontent.com/56845350/182168797-dd70555c-5422-47a5-8896-c6fc9b380e8a.jpg)
+![todo_5](https://user-images.githubusercontent.com/56845350/182168799-bc6d1334-729f-4566-9c4f-c2e1dbd694a0.jpg)
+![todo_1](https://user-images.githubusercontent.com/56845350/182168801-6a22ac86-9ace-49c3-abbd-2d1081c5bcf1.jpg)
+
