@@ -10,10 +10,7 @@ UI inspiration from https://github.com/lohanidamodar/flutter_ui_challenges.git.
 
 # Ecommerce UI
 
-![ecom_8](https://user-images.githubusercontent.com/56845350/182127739-7077a5f4-9375-435f-b585-b51205df3ca2.jpg)
-![ecom_1](https://user-images.githubusercontent.com/56845350/182127745-9b59121b-6039-4157-8a49-caea18a0b8da.jpg)
-![ecom_2](https://user-images.githubusercontent.com/56845350/182127747-f7353e0a-69e1-4eca-a41b-401c3f06839b.jpg)
-![ecom_3](https://user-images.githubusercontent.com/56845350/182127750-50ca0ed4-2ddb-462d-8d34-42e2e2d36ec2.jpg)
+![ecom_8](https://user-images.githubusercontent.com/56845350/182127739-7077a5f4-9375-435f-b585-b51205df3ca2.jpg) | ![ecom_1](https://user-images.githubusercontent.com/56845350/182127745-9b59121b-6039-4157-8a49-caea18a0b8da.jpg) | ![ecom_2](https://user-images.githubusercontent.com/56845350/182127747-f7353e0a-69e1-4eca-a41b-401c3f06839b.jpg) | ![ecom_3](https://user-images.githubusercontent.com/56845350/182127750-50ca0ed4-2ddb-462d-8d34-42e2e2d36ec2.jpg)
 ![ecom_4](https://user-images.githubusercontent.com/56845350/182127751-56208125-9d16-46fe-8078-10b3b5d2d381.jpg)
 ![ecom_5](https://user-images.githubusercontent.com/56845350/182127754-942ec3fa-2164-4def-8afc-e64a84ebf5b7.jpg)
 ![ecom_6](https://user-images.githubusercontent.com/56845350/182127758-5266b070-8eeb-4bc4-956e-5b84bc280e09.jpg)
