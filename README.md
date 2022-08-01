@@ -6,9 +6,7 @@ UI inspiration from https://github.com/lohanidamodar/flutter_ui_challenges.git.
 
 # Dashboard UI
 
-![dashboard_3](https://user-images.githubusercontent.com/56845350/182127629-12d6cdec-b73e-4b10-8ae1-d90ac552b830.jpg)
-![dashboard_1](https://user-images.githubusercontent.com/56845350/182127641-524a0912-da27-462c-9660-81e978b470ed.jpg)
-![dashboard_2](https://user-images.githubusercontent.com/56845350/182127644-c9697c5d-4548-4d45-a912-ed872b08d213.jpg)
+![dashboard_3](https://user-images.githubusercontent.com/56845350/182127629-12d6cdec-b73e-4b10-8ae1-d90ac552b830.jpg) ![dashboard_1](https://user-images.githubusercontent.com/56845350/182127641-524a0912-da27-462c-9660-81e978b470ed.jpg) ![dashboard_2](https://user-images.githubusercontent.com/56845350/182127644-c9697c5d-4548-4d45-a912-ed872b08d213.jpg)
 
 # Ecommerce UI
 
